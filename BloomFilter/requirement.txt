@@ -1,0 +1,3 @@
+bitarray
+mmh3
+-e git+https://github.com/seomoz/pyreBloom.git#egg=pyreBloom
